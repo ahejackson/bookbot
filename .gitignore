@@ -1,1 +1,3 @@
 books/
+.mypy_cache
+.DS_Store
